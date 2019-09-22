@@ -18,6 +18,9 @@
   "homepage": "https://github.com/aristeapeppa/Ratehub#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.19.0"
   }
 }
